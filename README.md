@@ -31,4 +31,4 @@ A simple and elegant weather application that allows users to check the current 
 Visit the Site: [https://sohini9742.github.io/PRODIGY_WD_05/](https://sohini9742.github.io/PRODIGY_WD_05/)
 
 Feel free to explore the code and try it out!
-#
+
